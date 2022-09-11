@@ -1,19 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
 
-- 📈 I’m currently working on 
-
-
-
-- 👩🏻‍💻 I’m currently learning 
+###- 📈 I’m currently working on 
 
 
 
-- 📊 My previous work:
+###- 👩🏻‍💻 I’m currently learning 
+
+
+
+###- 📊 My previous work:
 
 
 
 
-- 📫 How to reach me:
+###- 📫 How to reach me:
 
 
