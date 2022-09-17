@@ -1,4 +1,4 @@
-## Hi there, I am Prachi Jaiswal👋
+## Hi there,   I am Prachi Jaiswal👋 (She/ Her)
 
 I am currently enrolled in a Master’s degree in Business Analytics at Monash University, Melbourne, Australia and I graduated with a bachelor's degree in engineering in information technology from the Symbiosis Institute of Technology in Pune, India. I'm well-versed in the R programming language, MySQL, Figma, HTML5, CSS3, and graphic design (Adobe Photoshop, Illustrator, InDesign). I do a lot of things outside of my field of study. In high school, I was heavily involved in organizational tasks related to clubs, tournaments, and workshops, which aided me with the development of skills like communication, leadership, and time management. I am a passionate self-taught web/mobile designer.  My interest in designing software lies in dreaming up ideas and making them come true with user-friendly interfaces.
 
