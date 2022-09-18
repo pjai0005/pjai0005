@@ -36,11 +36,12 @@ I am currently enrolled in a Master’s degree in Business Analytics at Monash U
 - [MonHeli database in Oracle](https://github.com/pjai0005/MonHeli)
 - [Frequency of road accidents in ACT](https://github.com/pjai0005/ACT-Road-Crash)
 - [A short survey of butterflies in Melbourne 2017](https://github.com/pjai0005/short-survey-butterflies/tree/main)
-- [Dye Colour Palette Package]()
-- [De-Identification in Census Data]()
-- [COVID-19 Cases in Victoria]()
+- [Dye Colour Palette Package](https://github.com/pjai0005/Dye-Colour-Palette-Package)
+- [De-Identification in Census Data](https://github.com/pjai0005/Deidentification-of-Census-Data-)
+- [Global-Calamity-Deforestration](https://github.com/pjai0005/Global-Calamity-Deforestration)
+- [COVID-19 Cases in Victoria](https://github.com/pjai0005/Covid-19-Cases-in-Victoria)
 - [Cross- Border Trade of Commodities](https://github.com/pjai0005/5513assignment4_Team_Nemo/tree/main)
-- [Prediction of the cell type from gene motifs in mouse]()
+- [Prediction of the cell type from gene motifs in mouse](https://github.com/pjai0005/Prediction-of-cell-type-in-mouse)
 
 
 
