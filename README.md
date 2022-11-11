@@ -1,10 +1,11 @@
 ## Hi there,   I am Prachi Jaiswal👋 (She/ Her)
 
-I am currently enrolled in a Master’s degree in Business Analytics at Monash University. I graduated with a bachelor's degree in Information Technology from Symbiosis Institute of Technology. I'm well-versed in the R programming language (RShiny, Xaringan, Distill Blog), MySQL, Figma and HTML5/CSS3.
+I am currently in the final semester of my Master’s degree in Business Analytics at Monash University. I graduated with a bachelor's degree in Information Technology from Symbiosis Institute of Technology. I recently worked as a research scholar at the Australian Red Cross Lifeblood to examine Arbovirus transmission in Australia. I'm well-versed in the R programming language (RShiny, Xaringan, Distill Blog), MySQL, Figma and HTML5/CSS3.
 
-I am passionate about data visualisation and analysis I'm pursuing user behaviour and experience design to enhance my capacity to communicate and provide users with insightful information about data.
+I am passionate about data visualisation and analysis. To enhance my capacity to communicate and provide users with insightful information about data, I'm pursuing user behaviour and experience design.
 
 I do a lot of things outside of my field of study. In high school, I was heavily involved in organizational tasks related to clubs, tournaments, and workshops, which aided me with the development of skills like communication, leadership, and time management.
+
 
 <br />
 <hr>
