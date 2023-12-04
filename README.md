@@ -1,10 +1,13 @@
 ## Hi there,   I am Prachi Jaiswal👋 (She/ Her)
 
-I am currently in the final semester of my Master’s degree in Business Analytics at Monash University. I graduated with a bachelor's degree in Information Technology from Symbiosis Institute of Technology. I recently worked as a research scholar at the Australian Red Cross Lifeblood to examine Arbovirus transmission in Australia. I'm well-versed in the R programming language (RShiny, Xaringan, Distill Blog), MySQL, Figma and HTML5/CSS3.
+A data enthusiast, particularly passionate about data, data visualization, and data analysis. I'm consistently eager to expand my knowledge and enhance my skills in effectively conveying information and providing valuable insights from data.
+<br />
 
-I am passionate about data visualisation and analysis. To enhance my capacity to communicate and provide users with insightful information about data, I'm pursuing user behaviour and experience design.
+Currently, I am working as a Pricing Analyst at Suncorp Group Australia. I have also worked as a research scholar at the Australian Red Cross Lifeblood to examine Arbovirus transmission in Australia. 
+<br />
 
-I do a lot of things outside of my field of study. In high school, I was heavily involved in organizational tasks related to clubs, tournaments, and workshops, which aided me with the development of skills like communication, leadership, and time management.
+I am skilled in R programming language (RShiny, Xaringan, Distill Blog), MySQL, SAS, Figma, and HTML5/CSS3.
+
 
 
 <br />
@@ -12,14 +15,7 @@ I do a lot of things outside of my field of study. In high school, I was heavily
 
 
 
-### - 📈 I’m currently working on 
-
-
-- [Transmission of Arboviruses in Australia](https://github.com/pjai0005/Analysis-on-Arbovirus-Transmission)
-
-
 <br />
-
 
 
 ### - 👩🏻‍💻 I’m currently learning 
@@ -35,7 +31,7 @@ I do a lot of things outside of my field of study. In high school, I was heavily
 
 ### - 📊 My previous work:
 
-
+- [Transmission of Arboviruses in Australia](https://github.com/pjai0005/Analysis-on-Arbovirus-Transmission)
 - [Blog: Infonest](https://pjai0005-blog1.netlify.app/)
 - [SQL schema for species database in Oracle](https://github.com/pjai0005/Basic-SQL-for-Species-Database)
 - [MonHeli database in Oracle](https://github.com/pjai0005/MonHeli)
@@ -56,13 +52,13 @@ I do a lot of things outside of my field of study. In high school, I was heavily
 <hr>
 
 
-### - 📫 Reach me at:
+### - 📫 Reach me:
 - Email: prachij2468@gmail.com
 - LinkedIn: [Prachi Jaiswal](https://www.linkedin.com/in/prachi-jaiswal-a07b66161/)
 
 
 <br />
 
-### 📌 I am looking forward to acquire experience, eager to learn new things, and collaborate and build amazing products 💼
+### 📌 I'm excited about gaining experience, eager to acquire new knowledge, and collaborating to create amazing products. 💼
 
 
